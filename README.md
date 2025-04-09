@@ -48,7 +48,7 @@
 ## 📈 提交记录
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Cookici&theme=radical&hide_border=true" alt="提交记录" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Cookici&theme=radical&hide_border=true" alt="提交记录" />
 </p>
 
 ## 🏆 GitHub 奖杯
