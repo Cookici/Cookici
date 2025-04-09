@@ -45,10 +45,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cookici&layout=compact&theme=radical" alt="常用语言" />
 </p>
 
-## 📈 贡献图
+## 📈 提交记录
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Cookici&theme=react-dark" alt="贡献图" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cookici&theme=radical&hide_border=true" alt="提交记录" />
 </p>
 
 ## 🏆 GitHub 奖杯
