@@ -5,7 +5,6 @@
 </div>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Cookici/count.svg" alt="访问量" />
   <a href="https://github.com/Cookici?tab=followers">
     <img src="https://img.shields.io/github/followers/Cookici?style=social" alt="关注者" />
   </a>
