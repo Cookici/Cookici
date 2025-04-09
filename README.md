@@ -1,7 +1,7 @@
 # 👋 你好，我是 Cookici
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=后端开发工程师;Talk%20less%20and%20do more&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?后端开发工程师;lines=Talk+less+and+do+more.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 <p align="center">
