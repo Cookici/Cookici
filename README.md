@@ -48,7 +48,7 @@
 ## 📈 提交记录
 
 <p align="center">
-  <img src="https://github.com/Cookici/Cookici/blob/output/github-contribution-grid-snake.svg" alt="贪吃蛇贡献图" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="贡献图" />
 </p>
 
 ## 🏆 GitHub 奖杯
