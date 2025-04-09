@@ -48,7 +48,7 @@
 ## 📈 提交记录
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cookici&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="提交记录" />
+  <img src="https://github.com/Cookici/Cookici/blob/output/github-contribution-grid-snake.svg" alt="贪吃蛇贡献图" />
 </p>
 
 ## 🏆 GitHub 奖杯
