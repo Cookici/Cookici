@@ -5,9 +5,9 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Cookici&label=访问量&color=0e75b6&style=flat" alt="访问量" />
+  <img src="https://profile-counter.glitch.me/Cookici/count.svg" alt="访问量" />
   <a href="https://github.com/Cookici?tab=followers">
-    <img src="https://img.shields.io/github/followers/Cookici?label=关注者&style=social" alt="关注者" />
+    <img src="https://img.shields.io/github/followers/Cookici?style=social" alt="关注者" />
   </a>
 </p>
 
